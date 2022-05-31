@@ -1,4 +1,9 @@
-1. Full name - Ekaterina Pushkova
-2. Age - 44 years
-3. Number of pets - 1 cat, 1 dog
-4. Future desired salary $10,000
+{
+   "FullName": "Ekaterina Pushkova",
+   "Age": "44 years",
+   "Number of pets": {
+       "The cat": "1",
+       "The dog": "1",
+   },
+   "Future desired salary": "$10,000",
+}
