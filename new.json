@@ -1,9 +1,8 @@
 {
    "FullName": "Ekaterina Pushkova",
    "Age": "44 years",
-   "Number of pets": {
+   "Number of pets":
        "The cat": "1",
        "The dog": "1",
-   },
-   "Future desired salary": "$10,000",
+   "Future desired salary": "$10,000"
 }
